@@ -136,7 +136,7 @@ Here are the screenshots showing the system in action:
 
 ### Google Sheet Dashboard
 Shows the main Sales Campaign CRM spreadsheet with lead status:
-![Sales Campaign CRM Dashboard](./images/SalesCampaignCRM-Spreadsheet.png)
+![Sales Campaign CRM Dashboard](./images/SalesCampaignCRM-Spreadseet.png)
 
 ### Email Responses
 Shows sample email responses sent to leads:
