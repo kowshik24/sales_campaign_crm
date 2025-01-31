@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sales-campaign-crm",
+  "private_key_id": "c80cf7b8db1e45eac7e058e44688bd171bbbc77e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDgyw17lxw9e48f\nwxAYnWchSPMU2/8t94j0q7wT/0D/OlCFADiF/y21JlEv9NFICUrLoGw5LlgGEBml\nbN5dfQLf0WjHY9GOSl1kYMxH3FSucfShHWBbn47OsUqGSuL0dOdZdHIptQN4LJs4\nlzSlTrCeO8n1FxZFhzYD1stL3O2OXVOvOB8FnwL+gDugfXuQhoYBHFs8zUUyNq5m\nJ2CkpZKseKjmiF4XIzLH3SstIBBcXoN/H8Qqa0EI7LQiB9UVcBSDGN8aui+5msiS\nLohdRyjKnuyMRMBgdzyUMorBx1uC72j3Mg1ippQnhEYt3Bg5sc+/FjUggvs26mBH\n8zrj5u4TAgMBAAECggEAFpjS1iWulQ+ip5K4P4EzKMlohiRHVpuXjODmmywBoKaA\nCZ6oD/BC6/7aEnQNxawJdMa/mk/qUVG1AkgbYlJ6w30Nh12lZyRalwiUAHVJne+e\no8OMOCml9WklELLedax6xSdLgp3Lp3z0bY/lnuh2ILHp71VOy9Z3u5MQBKREzRas\nZBJOp2QQF1MdrmLQ/cS5I1U+3mq80KHrtuVcr8MScQMAyKdILus1oa7g4nof31Xn\nzASArr7ccVtTjH2/N0jXBtuTi856su5/mowCcYyn+pZz9uF/giKcaQKWg2XP+7/v\nynxR3ChKCzsLHIFcAJesNN4jZ5HrQvk3PX70b86+IQKBgQDv+XfjEqZ3XP1TSBNp\nI/5i2Ymj3yOR08qEs9hACmj2HUCb6SHYG8I88pYH8llb9c8qvThh5gGXQDF07tGD\nFjAsIRsJ1d1g6uCKsYG99YB9gMh3qqLl/Oq1W3BQ/fPV2eyg0C2RvmuYz/e8s3GH\nwsqrZp5TAhToEIkn1vCuQShKxwKBgQDvzgyaE4GokMFaYCqt1dl4y+4Gpn/DZy0L\nC1S9PIT1Tx+7tg2864xOFcNimBM+DvtAb1tPfSn3fiHMV2DD4+QcntIQDAzlIp2L\nFnhe8JfS9BlZeR+pcP1GQ9Vc0N68x1LZJ/Ig2XX2E200KZJ9vIzNv24UkY4jvyco\nU4wwWx8WVQKBgQDj5Qgjjyyjop25H3O/n70P5wM9qsU+0eE70QeHGdvADtuytN29\nO+9krgQpG9Ac8v2A2x3WavYLy5ysLbiuQr4QyofA+Wc5iRUg4Z4S5jjV9x1p95Sn\n0V6cSHALmoCcEE8WEV2VUT8hai8c91TT1vtddyDYN9ve3wVB3m/HLH21NQKBgATg\npwb3QJriHtysuhGBGQRI+ZVvC4g48ASafWW/9mBa9KVHxa3DCL6J2MiHmVSYz2l3\nGl9ah2D+UseqO1CgsQIYBOPIqvZ6JsQud9JOiHgE+QMF4Kv8nVoxhQR3RyCF2VyL\nYHRkl+6iZIU8FzuxexewPhfzAfYeLDi4wlA1ekNlAoGBAOLNVCaYxNTNABK5oBsz\nzAMP5wLOFwk3wrSlJUOCueBF41LbVPry3MXsip/29SgWQEvOef1zeGUqvy17xZQ8\nkACal6AfFBX0oatv+e3pbgef4OJLI2myDn72NWm9BRF3MDa2hJtjSJuCL0RbYD81\nAaK2xzC19RBLYmgvOLxy0nSi\n-----END PRIVATE KEY-----\n",
+  "client_email": "sales-campaign-crm-service@sales-campaign-crm.iam.gserviceaccount.com",
+  "client_id": "109396876442155820993",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sales-campaign-crm-service%40sales-campaign-crm.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
